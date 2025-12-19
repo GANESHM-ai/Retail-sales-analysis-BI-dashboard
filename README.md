@@ -55,7 +55,7 @@ This project focuses on analyzing retail sales data to gain insights into sales 
 
 -- 1st file - dashboard photo
 
--- 2nd file - dataset.csv
+-- 2nd file - dataset
 
 -- 3rd file - powerBi projct file
 
